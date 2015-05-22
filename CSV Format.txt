@@ -1,0 +1,1 @@
+Name, release year, volume, weight (g), screen size (inches)*100, total resolution, OSType, number of cores, core clock rate, ram, primary camera megapixels,  battery capacity, , price???? unavailable yet
